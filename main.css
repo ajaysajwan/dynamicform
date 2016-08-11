@@ -1,0 +1,11 @@
+body {
+  margin: 20px
+}
+
+.formly.row{
+  display:block;
+}
+
+.formly-field.section-label {
+  margin-bottom: 8px
+}
